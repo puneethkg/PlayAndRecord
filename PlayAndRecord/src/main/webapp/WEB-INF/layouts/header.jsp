@@ -141,7 +141,7 @@
 							<li><a href="player-list.html">Players</a></li>
 							<li><a href="player-detail.html">Player detail</a></li>
 							<li><a href="team-detail.html">Team Detail</a></li>
-					<	/ul>
+						</ul>
 					</li>
 					<li><a href="#">Shop</a>
 						<ul class="children">
@@ -175,5 +175,5 @@
 				</ul>
 			</div><!-- /.navbar-collapse -->
 		</nav>
-	</div
+	</div>
 </div>

@@ -6,10 +6,4 @@
  <th>Dept No</th>
  <th>Dept Name</th>
 </tr>
-#foreach($dept in $departments)
-  <tr>
-   <td>$dept.deptNo</td>
-   <td>$dept.deptName</td>
-  </tr>
-#end
 </table>
